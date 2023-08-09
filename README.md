@@ -1,1 +1,1 @@
-# This is a demonstration of pomodoro timer technique were we have two work mode for 25 mins and break mode for 5 mins and basically it is a timer but with few features like work mode and break mode, then we can paused the timer, resume the timer and reset the timer also.
+This is a demonstration of pomodoro timer technique were we have two work mode for 25 mins and break mode for 5 mins and basically it is a timer but with few features like work mode and break mode, then we can paused the timer, resume the timer and reset the timer also.
